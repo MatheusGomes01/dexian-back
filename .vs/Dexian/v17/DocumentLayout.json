@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathm\\source\\repos\\Dexian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\services\\memoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\services\\memoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|c:\\users\\mathm\\source\\repos\\dexian\\dexian\\controllers\\escolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE10F73-5B35-40FD-B3A2-43EFF99791E6}|Dexian\\Dexian.csproj|solutionrelative:dexian\\controllers\\escolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\appsettings.json",
+              "RelativeDocumentMoniker": "Dexian\\appsettings.json",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\appsettings.json",
+              "RelativeToolTip": "Dexian\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T23:33:29.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dexian\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dexian\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T22:28:06.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Dexian\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Dexian\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:10:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Services\\MemoryRepository.cs",
+              "RelativeDocumentMoniker": "Dexian\\Services\\MemoryRepository.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Services\\MemoryRepository.cs",
+              "RelativeToolTip": "Dexian\\Services\\MemoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:08:56.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Models\\Escola.cs",
+              "RelativeDocumentMoniker": "Dexian\\Models\\Escola.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Models\\Escola.cs",
+              "RelativeToolTip": "Dexian\\Models\\Escola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:07:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Dexian\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Models\\Aluno.cs",
+              "RelativeToolTip": "Dexian\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:07:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Program.cs",
+              "RelativeDocumentMoniker": "Dexian\\Program.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Program.cs",
+              "RelativeToolTip": "Dexian\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:10:36.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Dexian\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\appsettings.Development.json",
+              "RelativeToolTip": "Dexian\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T23:33:32.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EscolasController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\EscolasController.cs",
+              "RelativeDocumentMoniker": "Dexian\\Controllers\\EscolasController.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\EscolasController.cs",
+              "RelativeToolTip": "Dexian\\Controllers\\EscolasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:06:02.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Dexian\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\mathm\\source\\repos\\Dexian\\Dexian\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Dexian\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:05:27.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
